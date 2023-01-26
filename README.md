@@ -1,1 +1,1 @@
-# CV-RESPONSIVO-CON-HTML---CSS---JS---NEWEN
+<--======= Este CV es un proyecto simple, básico, intuitivo desarrollado para un curso de desarrollo front end, como entrega final. Soy artista sonoro y he trabajado con Processing, Pure Data, Arduino y reacTIVision como músico. Esta iniciativa es para subir mis proyectos multimedia musicales a una página web hecha por mis propias manitas! Saludos! NEWEN =======-->
